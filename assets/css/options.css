@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+label {
+    display: block;
+}
+
+textarea {
+    outline: 0em;
+    border: 1px solid #eee;
+    width: 95%;
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    padding: 1.5rem;
+    border-radius: 4px;
+}
+
+legend {
+    padding: 0 0.5rem;
+}
+
+.form-group {
+    float: left;
+    width: 50%;
+}
+
+.h1,
+.h2 {
+    font-weight: bold;
+}
+
+.h1 {
+    font-size:20px;
+}
+
+.h2 {
+    font-size: 18px;
+}
+
+.message {
+    color: red;
+    font-size: x-large;
+}
